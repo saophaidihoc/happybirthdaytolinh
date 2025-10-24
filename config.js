@@ -1,6 +1,6 @@
-const nameGirl = 'Nguyễn Trần Khánh Linh';
+const nameGirl = 'Em';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Happy Birthday';
+const eventName = 'Happy Birthday To Linh';
 const titleCard = 'From Duc';
 const contentCard = 'Chúc em sinh nhật dui dẻ nhoa. Anh không biết nói gì hơn ngoài wish u all the best! Anh xin lỗi em nhiều nha mong em nhận quà muộn từ anh';
 
